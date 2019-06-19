@@ -1,2 +1,2 @@
 # csv-loader-for-snowflake
-Ground to cloud loader for Snowflake DB using Pyodbc/Python.
+Ground to cloud data loader for Snowflake DB using Pyodbc/Python.
